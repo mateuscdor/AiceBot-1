@@ -1,17 +1,13 @@
-<a href="https://github.com/Fariiid-M/"><img src="https://cardivo.vercel.app/api?name=SELF BOT WHATSAPP&description=Whatsapp bot using baileys recode from wabot-aq&image=https://telegra.ph/file/55e631dbf7a5891e09606.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=Fariiid-M&pattern=leaf&colorPattern=%23eaeaea" /></a>
+## AiceBot
 
-Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fariiid-M/SelfBot-whatsapp)
-
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BzDqJgRFzEECe2IbE4WtOf)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Qib10/AiceBot)
 
 # Info :
-* Edit nomer owner [`di sini`](https://github.com/Fariiid-M/SelfBot-whatsapp/blob/main/config.js#L5)
-* Auto public? ubah [`di sini`](https://github.com/Fariiid-M/SelfBot-whatsapp/blob/main/handler.js#L59) dan [`di sini`](https://github.com/Fariiid-M/SelfBot-whatsapp/blob/main/handler.js#L63) menjadi false
-* Edit teks rejected [`di sini`](https://github.com/Fariiid-M/SelfBot-whatsapp/blob/main/handler.js#L347)
-* Edit watermark sticker [`di sini (packname)`](https://github.com/Fariiid-M/SelfBot-whatsapp/blob/main/config.js#L33) dan [`di sini (author)`](https://github.com/Fariiid-M/SelfBot-whatsapp/blob/main/config.js#L38)
+* Edit nomer owner [`di sini`](https://github.com/Qib10/AiceBot/blob/main/config.js#L5)
+* Auto public? ubah [`di sini`](https://github.com/Qib10/AiceBot/blob/main/handler.js#L59) dan [`di sini`](https://github.com/Qib10/AiceBot/blob/main/handler.js#L63) menjadi false
+* Edit teks rejected [`di sini`](https://github.com/Qib10/AiceBot/blob/main/handler.js#L347)
+* Edit watermark sticker [`di sini (packname)`](https://github.com/Qib10/AiceBot/blob/main/config.js#L33) dan [`di sini (author)`](https://github.com/Qib10/AiceBot/blob/main/config.js#L38)
 ----
 
 # Cara Penginstalan :
@@ -25,15 +21,15 @@ Simple WhatsApp Bot
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Fariiid-M/SelfBot-whatsapp
-cd SelfBot-whatsapp
+git clone https://github.com/Qib10/AiceBot
+cd AiceBot
 npm i
 npm update 
 node .
 ```
 
   #### Menginstall FFmpeg Di Windows/RDP :
-* Unduh salah satu versi FFMMPEG [`Di Sini`](https://ffmpeg.org/download.html).
+* Unduh salah satu versi FFmpeg [`Di Sini`](https://ffmpeg.org/download.html).
 * Ekstrak file ke `C:\` path.
 * Ubah nama folder menjadi `ffmpeg`.
 * Jalankan Command Prompt sebagai Administrator.
@@ -111,13 +107,3 @@ conn.logger.level = 'trace'
 ```js
 conn.logger.level = 'debug'
 ```
-
----------
-
-### Thanks :
-
- [![adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing) | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Dika Ardnt](https://github.com/DikaArdnt.png?size=100)](https://github.com/DikaArdnt) | [![dngda](https://github.com/dngda.png?size=100)](https://github.com/dngda)
-----|----|----|----
-[Adiwajshing](https://github.com/adiwajshing) | [Nurutomo](https://github.com/Nurutomo) | [DikaArdnt](https://github.com/DikaArdnt) | [DanangDwiyoga](https://github.com/dngda)
-
----------
