@@ -1,5 +1,5 @@
 { 
-  "name": "self-bot",
+  "name": "AiceBot",
   "version": "0.0.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -25,16 +25,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Fariiid-M/SelfBot-whatsapp",
+  "homepage": "https://github.com/Qib10/AiceBot",
   "author": {
     "name": "Fariiid-M"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fariiid-M/SelfBot-whatsapp.git"
+    "url": "git+https://github.com/Qib10/AiceBot.git"
   },
   "bugs": {
-    "url": "https://github.com/Fariiid-M/SelfBot-whatsapp/issues"
+    "url": "https://github.com/Qib10/AiceBot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
